@@ -1,0 +1,35 @@
+{
+  "test-start-time": "2022-12-04 22-52-22-95",
+  "test-end-time": "2022-12-04 22-52-45-86",
+  "test-excuted-by": "mac",
+  "tests": [
+    {
+      "test-module": "Login",
+      "test-name": "Login",
+      "test-date": "2022-12-04",
+      "test-time": "22-52-36-48",
+      "test-status": true
+    },
+    {
+      "test-module": "Inventory Module",
+      "test-name": "Add Customer",
+      "test-date": "2022-12-04",
+      "test-time": "22-52-41-42",
+      "test-status": true
+    },
+    {
+      "test-module": "Inventory Module",
+      "test-name": "Delete Customer",
+      "test-date": "2022-12-04",
+      "test-time": "22-52-43-95",
+      "test-status": true
+    },
+    {
+      "test-module": "LogOut",
+      "test-name": "LogOut",
+      "test-date": "2022-12-04",
+      "test-time": "22-52-45-86",
+      "test-status": true
+    }
+  ]
+}

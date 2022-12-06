@@ -1,0 +1,17 @@
+{
+  "login-user": {
+    "name": "testautomation1",
+    "password": "automation123!"
+  },
+  "customer": {
+    "customer-firstname": "testA",
+    "customer-lastname": "lastnameB",
+    "customer-email": "testab12@gmail.com"
+  },
+  "product": {
+    "product-name": "iphone13",
+    "product-code": "i123",
+    "manufacturer": "Apple",
+    "category": "Apple"
+  }
+}

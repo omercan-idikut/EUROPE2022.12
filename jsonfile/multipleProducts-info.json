@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "status": true,
+      "productName": "TeslaModelX",
+      "manufacturer": "Tesla",
+      "productCode": "TE15",
+      "productWeight": 1500.9,
+      "productWidth": 200.0,
+      "productHeight": 100.0,
+      "stockLevel": 1000,
+      "stockLevelWarning": 50,
+      "active": true
+    },
+    {
+      "status": true,
+      "productName": "Mac",
+      "manufacturer": "Tesla",
+      "productCode": "TE15",
+      "productWeight": 1000.0,
+      "productWidth": 200.0,
+      "productHeight": 100.0,
+      "stockLevel": 1000,
+      "stockLevelWarning": 50,
+      "active": true
+    },
+    {
+      "status": true,
+      "productName": "FirStep",
+      "manufacturer": "Tesla",
+      "productCode": "TE15",
+      "productWeight": 100.0,
+      "productWidth": 200.0,
+      "productHeight": 100.0,
+      "stockLevel": 1000,
+      "stockLevelWarning": 50,
+      "active": false
+    }
+  ]
+}
